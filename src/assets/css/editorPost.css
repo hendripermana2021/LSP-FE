@@ -1,0 +1,21 @@
+/* Define a class with a white background and other styling you need */
+.editorWhiteBackground {
+  background-color: white; /* Set background color to white */
+  border: 1px solid #ccc; /* Optional: Add a border */
+  padding: 10px; /* Optional: Add some padding */
+  min-height: 300px; /* Optional: Ensure some minimum height */
+  color: black; /* Optional: Ensure text is visible */
+  border-radius: 5px; /* Optional: Round corners */
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
+}
+
+/* You can also style the toolbar and wrapper if needed */
+.toolbarClassName {
+  background-color: #f5f5f5; /* Example toolbar background */
+  border-bottom: 1px solid #ccc; /* Example toolbar border */
+}
+
+.wrapperClassName {
+  margin: 0 auto; /* Center the editor in its container */
+  max-width: 100%; /* Set a maximum width */
+}

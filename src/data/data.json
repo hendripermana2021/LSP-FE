@@ -1,0 +1,159 @@
+{
+  "Header": {
+    "title": "WELCOME TO H-MARKET",
+    "paragraph": "The Leading Technology Marketplace in Medan."
+  },
+  "About": {
+    "paragraph": "H-Market is your ultimate destination for all things technology in Medan. We bring together a wide range of products, from the latest gadgets to essential tech accessories, all in one place. Whether you're a tech enthusiast or just looking for the best deals, H-Market offers a seamless shopping experience with the latest innovations at your fingertips.",
+    "Why": [
+      "Extensive product range",
+      "Competitive pricing",
+      "Trusted sellers",
+      "Fast delivery"
+    ],
+    "Why2": [
+      "Secure payment options",
+      "Easy returns",
+      "24/7 customer support",
+      "Exclusive offers and discounts"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Latest Tech Gadgets",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Smart Devices",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Accessories",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Home Appliances",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Wearables",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Gaming Gear",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Office Equipment",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Networking Devices",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Audio & Video",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Wide Product Selection",
+      "text": "Browse through a vast selection of technology products and find exactly what you need, all in one place."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Secure Transactions",
+      "text": "Enjoy peace of mind with our secure and reliable payment methods, ensuring your transactions are safe and protected."
+    },
+    {
+      "icon": "fa fa-rocket",
+      "name": "Fast Delivery",
+      "text": "Get your products delivered quickly with our efficient shipping options, straight to your doorstep."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"H-Market has become my go-to marketplace for all my tech needs. The range of products and the customer service is unmatched.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Fast delivery and secure payment options make shopping at H-Market a breeze. Highly recommended!\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"I found everything I needed for my home office at H-Market. The deals were great, and the quality was top-notch.\"",
+      "name": "Jane Smith"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Excellent service and a great selection of the latest gadgets. H-Market is the best!\"",
+      "name": "Karen Williams"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Delitua Pamah Gg. Tumiran ",
+    "phone": "+62-896-7805-3050",
+    "email": "H-market@Hgroup.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "24/7 Live Chat",
+      "text": "Reach out to our support team anytime, day or night, for assistance or inquiries."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Customer Subscriptions",
+      "text": "Stay updated with the latest offers and news by subscribing to our customer updates."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "Dedicated Team",
+      "text": "Our experienced team works tirelessly to ensure your shopping experience is seamless and enjoyable."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Exclusive Experiences",
+      "text": "Discover the magic of effortless shopping with our user-friendly platform and personalized services."
+    }
+  ]
+}
