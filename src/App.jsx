@@ -17,7 +17,6 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
 /***** Pages ****/
 const Starter = lazy(() => import("./views/Starter.jsx"));
 const StuffTables = lazy(() => import("./views/ui/StuffTables.js"));
-const ClassTable = lazy(() => import("./views/ui/ClassTabel.jsx"));
 const UserTable = lazy(() => import("./views/ui/UserTable.jsx"));
 const TypeTables = lazy(() => import("./views/ui/TypeStuffTable.jsx"));
 
@@ -33,7 +32,7 @@ const ThemeRoutes = [
       { path: "data-barang", element: <StuffTables /> },
       { path: "tipe-barang", element: <TypeTables /> },
       { path: "user", element: <UserTable /> },
-      { path: "role", element: <ClassTable /> },
+      { path: "role", element: "" },
     ],
   },
   {

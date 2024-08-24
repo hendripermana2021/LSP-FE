@@ -1,6 +1,4 @@
 import { Col, Row } from "reactstrap";
-
-import ModulTables from "./ui/ModulTabel.js";
 import TopCards from "../components/dashboard/TopCards.js";
 
 import { useEffect, useState } from "react";
@@ -8,6 +6,7 @@ import { useNavigate } from "react-router-dom";
 import { jwtDecode } from "jwt-decode";
 import axios from "axios";
 import serverDev from "../Server.js";
+import StuffTables from "./ui/StuffTables.js";
 
 const Starter = () => {
   const [data, setData] = useState([]);
@@ -85,8 +84,7 @@ const Starter = () => {
       {/***Table ***/}
       <Row>
         <Col lg="12">
-          <ModulTables />
-          <ModulTables />
+          <StuffTables />
         </Col>
       </Row>
       {/***Blog Cards***/}

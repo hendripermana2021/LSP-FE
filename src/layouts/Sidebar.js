@@ -12,8 +12,8 @@ const navigationAdmin = [
     icon: "bi bi-browser-edge",
   },
   {
-    title: "Daftar Modul",
-    href: "/modul",
+    title: "Barang",
+    href: "/data-barang",
     icon: "bi bi-book",
   },
   {
@@ -22,13 +22,13 @@ const navigationAdmin = [
     icon: "bi bi-bag",
   },
   {
-    title: "Daftar Siswa",
-    href: "/siswa",
+    title: "User",
+    href: "/user",
     icon: "bi bi-people",
   },
   {
-    title: "Daftar Guru",
-    href: "/guru",
+    title: "Role",
+    href: "/role",
     icon: "bi bi-person-add",
   },
 ];

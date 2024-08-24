@@ -9,6 +9,7 @@ import { Team } from "../components/Team";
 import { Contact } from "../components/contact";
 import JsonData from "../data/data.json";
 import { Navigation } from "../components/navigation";
+import DisplayBarang from "../components/displaybarang";
 
 const LandingPage = () => {
   const [landingPageData, setLandingPageData] = useState({});
@@ -38,7 +39,7 @@ const LandingPage = () => {
     <div className="dark">
       <Navigation />
       <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} />
+      <DisplayBarang />
       <About data={landingPageData.About} />
       <Services data={landingPageData.Services} />
       <Gallery data={landingPageData.Gallery} />
